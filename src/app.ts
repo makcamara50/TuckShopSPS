@@ -21,3 +21,8 @@ let a = ryan()
 console.log(a)
 let b = new ryan1()
 console.log(b.name)
+    
+function hi() 
+{
+
+}

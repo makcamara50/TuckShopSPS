@@ -6,5 +6,5 @@
         "source/**/*.js": true,
         "test/**/*.js": true
     },
-    "standard.run": "onType"
+    "standard.run": "onSave"
 }
