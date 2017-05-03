@@ -46,28 +46,7 @@
 
 	"use strict";
 
-	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
 	Object.defineProperty(exports, "__esModule", { value: true });
-
-	var ryan1 = function ryan1() {
-	    _classCallCheck(this, ryan1);
-
-	    this.name = "hi";
-	};
-
-	function ryan() {
-	    var name = "hi";
-	    var that = {
-	        name: name
-	    };
-	    return that;
-	}
-	var a = ryan();
-	console.log(a);
-	var b = new ryan1();
-	console.log(b.name);
-	function hi() {}
 
 /***/ })
 /******/ ]);
