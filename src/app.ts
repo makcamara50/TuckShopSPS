@@ -8,6 +8,7 @@ class ryan1 {
     constructor () {
         this.name="hi"
     }
+    
 }
 function ryan() {
     let name: string = "hi"
