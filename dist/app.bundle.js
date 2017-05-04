@@ -47,23 +47,6 @@
 	"use strict";
 
 	Object.defineProperty(exports, "__esModule", { value: true });
-	var ryan1 = function () {
-	    function ryan1() {
-	        this.name = "hi";
-	    }
-	    return ryan1;
-	}();
-	function ryan() {
-	    var name = "hi";
-	    var that = {
-	        name: name
-	    };
-	    return that;
-	}
-	var a = ryan();
-	console.log(a);
-	var b = new ryan1();
-	console.log(b.name);
 
 /***/ })
 /******/ ]);
